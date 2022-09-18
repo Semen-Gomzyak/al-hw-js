@@ -2,20 +2,20 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://github.com/Semen-Gomzyak/al-hw-js",
+  "homepage": "https://github.com/Semen-Gomzyak/all-hw-js",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /al-hw-js/"
+    "build": "parcel build src/*.html --public-url /all-hw-js/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Semen-Gomzyak/al-hw-js.git"
+    "url": "git+https://github.com/Semen-Gomzyak/all-hw-js.git"
   },
   "keywords": [],
   "author": "Semen Homziak <Blacklife1817@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Semen-Gomzyak/al-hw-js/issues"
+    "url": "https://github.com/Semen-Gomzyak/all-hw-js/issues"
   },
   "dependencies": {
     "@vimeo/player": "^2.17.1",
