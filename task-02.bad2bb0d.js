@@ -1,0 +1,2 @@
+!function(){var t=document.querySelector("#ingredients");!function(e){var n=!0,r=!1,o=void 0;try{for(var a,i=e[Symbol.iterator]();!(n=(a=i.next()).done);n=!0){var l=a.value,c=document.createElement("li");c.textContent=l,c.classList.add("item"),t.append(c)}}catch(t){r=!0,o=t}finally{try{n||null==i.return||i.return()}finally{if(r)throw o}}}(["Potatoes","Mushrooms","Garlic","Tomatos","Herbs","Condiments"])}();
+//# sourceMappingURL=task-02.bad2bb0d.js.map
